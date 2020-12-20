@@ -45,7 +45,7 @@
 
 * 打开文件目录查看文件结构
 
-  ![项目.png](https://i.loli.net/2020/12/20/dHotFDflNYu1Akh.jpg)
+   ![项目.png](https://i.loli.net/2020/12/20/dHotFDflNYu1Akh.jpg)
 
  test下的js文件的官方的实例
 
