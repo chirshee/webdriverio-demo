@@ -45,7 +45,7 @@
 
 * 打开文件目录查看文件结构
 
-   ![项目.png](https://i.loli.net/2020/12/20/dHotFDflNYu1Akh.jpg)
+   ![pr.png](https://i.loli.net/2020/12/20/dHotFDflNYu1Akh.jpg)
 
  test下的js文件的官方的实例
 
@@ -114,7 +114,7 @@ npx wdio wdio.conf.js
 
 简化运行的命令，我们可以在`package.json`文件配置：
 
-![npm.png](https://i.loli.net/2020/12/20/FXy2JDCYGuZKt5V.jpg)
+ ![npm.png](https://i.loli.net/2020/12/20/FXy2JDCYGuZKt5V.jpg)
 
 然后用 `npm run test`来运行case就可以了，到此demo就完成了
 
